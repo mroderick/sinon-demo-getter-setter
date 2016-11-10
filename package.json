@@ -10,6 +10,6 @@
   "author": "Morgan Roderick",
   "license": "MIT",
   "dependencies": {
-    "sinon": "2.0.0-pre.3"
+    "sinon": "latest"
   }
 }

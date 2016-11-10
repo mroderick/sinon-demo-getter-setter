@@ -2,7 +2,7 @@
 
 This repository contains small demos for Sinon.JS' support for spying and stubbing object accessor methods (getter and setter).
 
-**Note: the demos are using Sinon.JS `2.0.0-pre.3`**
+**Note: the demos in this branch are using Sinon.JS `v1.17.6`**
 
 ```bash
 npm install 
